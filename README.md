@@ -1,6 +1,3 @@
-# team bedrock
-*week3project submission*
-
 # Problem Domain
 Our team's idea for this project will be inspired by the Pokémon Trading Card Game. The API we are currently using 
 returns a list of Pokémon cards and their statistics. Even though implementing a simple version of Pokémon would be the 
